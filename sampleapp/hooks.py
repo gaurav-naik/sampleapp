@@ -120,3 +120,11 @@ app_license = "MIT"
 # 	"frappe.desk.doctype.event.event.get_events": "sampleapp.event.get_events"
 # }
 
+fixtures = ["Custom Field", 
+	{
+		"dt": "Property Setter",
+		"filters": [
+			["name", "in", ["Address-email_id-reqd"]]
+		]
+	}
+]

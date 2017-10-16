@@ -1,0 +1,19 @@
+[
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Address", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "email_id", 
+  "modified": "2017-10-16 16:23:54.859378", 
+  "name": "Address-email_id-reqd", 
+  "property": "reqd", 
+  "property_type": "Check", 
+  "value": "1"
+ }
+]
