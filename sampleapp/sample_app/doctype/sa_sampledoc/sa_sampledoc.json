@@ -1,7 +1,7 @@
 {
  "allow_copy": 0, 
  "allow_guest_to_view": 0, 
- "allow_import": 0, 
+ "allow_import": 1, 
  "allow_rename": 0, 
  "autoname": "SA-.#####", 
  "beta": 0, 
@@ -326,7 +326,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2017-10-16 12:46:56.321252", 
+ "modified": "2017-10-16 15:33:05.303907", 
  "modified_by": "Administrator", 
  "module": "Sample App", 
  "name": "SA SampleDoc", 
